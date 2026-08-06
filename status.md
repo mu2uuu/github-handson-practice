@@ -1,3 +1,3 @@
 # Conflict Demo
 
-status: initial
+status: updated by branch-b
